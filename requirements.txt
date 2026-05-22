@@ -1,0 +1,13 @@
+pandas
+numpy
+ta
+tensorflow
+xgboost
+scikit-learn
+vaderSentiment
+aiohttp
+requests
+huggingface_hub
+matplotlib
+joblib
+portalocker
