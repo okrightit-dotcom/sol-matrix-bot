@@ -1,6 +1,14 @@
 {
   "live_trading_enabled": false,
-  "trading_pair": ["SOL/USDT","BTC/USDT","ETH/USDT"],
+  "trading_pair": [
+    "SOL/USDT",
+    "BTC/USDT",
+    "ETH/USDT",
+    "AVAX/USDT",
+    "LINK/USDT",
+    "ARB/USDT",
+    "NEAR/USDT"
+  ],
   "min_confidence": 65,
   "min_score": 6,
   "trailing_sl_pct": 0.02,
